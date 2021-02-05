@@ -143,7 +143,6 @@ bin2hex()
 dechex()
 hexdec()
 decoct()
-Octdec()
 base_convert()
 is_nan()
 ```
