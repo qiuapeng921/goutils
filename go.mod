@@ -1,4 +1,4 @@
-module github.com/qiuapeng921/php2go
+module github.com/qiuapeng921/go-utils
 
 go 1.14
 

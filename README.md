@@ -6,7 +6,7 @@
 
 ```shell
 
-go get -u github.com/qiuapeng921/php2go/php
+go get -u github.com/qiuapeng921/go-utils/php
 
 ```
 
@@ -21,7 +21,7 @@ PHP下划线命名转为Go大驼峰命名。
 package main
 
 import (
-    "github.com/qiuapeng921/php2go/php"
+    "github.com/qiuapeng921/go-utils/php"
 )
 
 func main() {
