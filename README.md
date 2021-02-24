@@ -6,7 +6,7 @@
 
 ```shell
 
-go get -u github.com/qiuapeng921/go-utils/php
+go get -u github.com/qiuapeng921/goutils/php
 
 ```
 
