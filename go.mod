@@ -1,4 +1,4 @@
-module github.com/qiuapeng921/go-utils
+module github.com/qiuapeng921/goutils
 
 go 1.15
 
