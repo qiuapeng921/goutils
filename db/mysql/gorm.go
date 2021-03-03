@@ -46,7 +46,7 @@ func Connect(dbDns string, MaxIdle, MaxOpen, MaxLifeTime int) error {
 		return err
 	}
 	fmt.Println("数据库链接成功")
-
+	db.Logger.LogMode(logger.Info)
 	return nil
 }
 
